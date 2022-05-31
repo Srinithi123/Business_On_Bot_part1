@@ -13,7 +13,7 @@ Endpoint:
 REQUEST URL :
 
 ```
-localhost:5000/api/branches/autocomplete?q=RTGS&limit=1&offset=1/api/branch?q=RTGS&limit=1&offset=1
+localhost:5000/api/branches/autocomplete?q=RTGS&limit=1&offset=1
 
 ```
 SUCCESS RESPONSE :
